@@ -3,14 +3,12 @@
 <h1>
   Greetings 👋
   
-  I'm Jesus Rodriguez
+  I'm Imtiaz.
 </h1>
 
 - 👨‍🎓 Computer Engineer
 - ⚾ Playing with [Flutter](https://flutter.dev) since 2017
 - 📐 UX/UI design as a hobby 
-
-<img alt="GitHub profile" src="https://github-readme-stats.vercel.app/api?username=jesusrp98&show_icons=true&count_private=true&hide_border=true&theme=transparent&custom_title=Stats" />
 
 ## Getting Started
 
